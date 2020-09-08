@@ -6,6 +6,9 @@
         "php": ">=7.0",
         "symfony/var-dumper": "*"
     },
+    "require-dev": {
+        "symfony/var-dumper": "*"
+    },
     "license": "Apache-2.0",
     "authors": [
         {
