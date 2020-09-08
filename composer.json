@@ -18,7 +18,6 @@
     ],
     "autoload": {
         "files": [ "CoolePHP.php" ],
-        "psr-4": [" Coole": ""]
     },
 
     "minimum-stability": "dev"
