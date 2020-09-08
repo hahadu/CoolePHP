@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: 582167246 <582167246@gmail.com>
 // +----------------------------------------------------------------------
-
+namespace Coole;
 //----------------------------------
 // CoolePHP公共入口文件
 //----------------------------------
@@ -30,4 +30,4 @@ const EXT = '.php';
 require LIB_PATH.'Coole'.EXT;
 require LIB_PATH.'Start'.EXT;
 require LIB_PATH.'Alias'.EXT;
-Coole\Start::router();
+Start::router();

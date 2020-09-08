@@ -1,7 +1,6 @@
 # CoolePHP
 一个简单的PHP自动加载框架，持续更新中。。。
 
-安装 composer require hahadu/coole-php dev-master
 
 使用：引入'CoolePHP.php'文件;
 

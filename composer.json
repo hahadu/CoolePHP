@@ -3,11 +3,11 @@
     "description": "A simple PHP auto loading framework",
     "type": "library",
     "require": {
-        "php": ">=7.0",
-        "symfony/var-dumper": "*"
+        "php": ">=7.0"
     },
     "require-dev": {
-        "symfony/var-dumper": "*"
+        "php": ">=7.0"
+
     },
     "license": "Apache-2.0",
     "authors": [
@@ -17,8 +17,7 @@
         }
     ],
     "autoload": {
-        "files": [ "CoolePHP.php" ]
+        "classmap": [ "CoolePHP.php"]
     },
-
-    "minimum-stability": "dev"
+        "minimum-stability": "dev"
 }
