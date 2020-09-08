@@ -1,17 +1,16 @@
 {
     "name": "hahadu/coole-php",
     "description": "A simple PHP auto loading framework",
+    "type": "library",
     "require": {
         "symfony/var-dumper": "*"
     },
-    "require-dev": {
-        "symfony/var-dumper": "*"
-    },
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "hahadu",
             "email": "582167246@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
