@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "files": [ "CoolePHP.php" ],
+        "files": [ "CoolePHP.php" ]
     },
 
     "minimum-stability": "dev"
