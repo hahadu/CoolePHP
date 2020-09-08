@@ -3,6 +3,7 @@
     "description": "A simple PHP auto loading framework",
     "type": "library",
     "require": {
+        "php": ">=7.2.5",
         "symfony/var-dumper": "*"
     },
     "license": "Apache-2.0",
@@ -12,5 +13,5 @@
             "email": "582167246@qq.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
