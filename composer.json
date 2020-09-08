@@ -16,5 +16,9 @@
             "email": "582167246@qq.com"
         }
     ],
+    "autoload": {
+        "files": [ "CoolePHP.php" ],
+    },
+
     "minimum-stability": "dev"
 }
