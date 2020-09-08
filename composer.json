@@ -3,7 +3,7 @@
     "description": "A simple PHP auto loading framework",
     "type": "library",
     "require": {
-        "php": ">=7.2.5",
+        "php": ">=7.0",
         "symfony/var-dumper": "*"
     },
     "license": "Apache-2.0",
