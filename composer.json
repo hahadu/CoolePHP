@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "CoolePHP": "src/" }
+        "files": ["src/CoolePHP.php"]
     },
         "minimum-stability": "dev"
 }
