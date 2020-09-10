@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "classmap": [ "CoolePHP.php"]
+        "psr-4": { "": "src/" }
     },
         "minimum-stability": "dev"
 }
