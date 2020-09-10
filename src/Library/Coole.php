@@ -18,6 +18,7 @@ class Coole{
 		$realClass = substr($className , $pos + 1 );
 		//找到文件并引入
 		$this -> mapLoad($namespace , $realClass);
+		
 	}
 	//根据命名空间名得到目录路径，获取文件全路径
 	protected function mapLoad($namespace , $realClass){
@@ -43,4 +44,23 @@ class Coole{
 		//将命名空间和路径以键值对形式存放到数组中
 		$this->_maps[$namespace] = $path;
 	}
+	//路由方法
+	static function router(){
+        //从url中获取要执行的控制器中的方法
+        $m = empty($_GET['m']) ? 'index' : $_GET['m'];
+        $a = empty($_GET['a']) ? 'index' : $_GET['a'];
+        //设置参数默认值
+        $_GET['m'] = $m;
+        $_GET['a'] = $a;
+        //将index处理
+        $m = ucfirst(strtolower($m));
+        //拼接带有命名空间的类名
+        $controller = 'controller\\'.$m.'Controller';
+        //dump($controller);
+        //创建对象并执行对应方法
+        $obj = new $controller();
+        call_user_func([$obj, $a]);
+	}
 }
+$coole = new Coole();
+$coole->addMaps('controller' , 'app/controller');
