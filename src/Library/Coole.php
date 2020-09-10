@@ -63,4 +63,4 @@ class Coole{
 	}
 }
 $coole = new Coole();
-$coole->addMaps('controller' , 'app/controller');
+$coole->addMaps('controller' , APP_PATH.'controller');

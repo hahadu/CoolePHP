@@ -19,10 +19,11 @@ define('MEMORY_GET_USAGE', function_exists('memory_get_usage'));
 if (MEMORY_GET_USAGE) {
     $GLOBALS['_startUseMems'] = memory_get_usage();
 }
-const COOLE_SYSTEM_VERSION = 'V 0.1.1';
+const COOLE_SYSTEM_VERSION = 'V 0.1.2';
 //定义系统常量
 defined('COOLE_PATH') or define('COOLE_PATH', __DIR__ . '/');
 defined('LIB_PATH') or define('LIB_PATH', 'Library/');
+defined('APP_PATH') or define('APP_PATH', 'app/');
 
 
 // 类文件后缀
