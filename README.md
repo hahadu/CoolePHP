@@ -15,9 +15,9 @@ app\controller
 新建IndexController.php控制器文件
 
 <code><?php
-<br/>
+
 namespace controller;
-<br/>
+
 class IndexController{
 
 	function index(){
