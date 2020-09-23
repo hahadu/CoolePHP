@@ -9,7 +9,7 @@
 // | Author: 582167246 <582167246@gmail.com>
 // +----------------------------------------------------------------------
 
-namespace Coole;
+namespace Coole\CoolePHP;
 //框架入口文件
 //自动加载框架文件
 class Coole{
@@ -49,7 +49,7 @@ class Coole{
 	//将命名空间 和路径映射到数组中
 	function addMaps($namespace , $path){
 		if(array_key_exists($namespace,$this->_maps)){
-			die($namespace.'命名空间已经映射过');
+			die($namespace.'命名空间已存在');
 		}
 		//将命名空间和路径以键值对形式存放到数组中
 		$this->_maps[$namespace] = $path;
