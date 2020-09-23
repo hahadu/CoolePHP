@@ -1,2 +1,0 @@
-[23-Sep-2020 21:50:02 Asia/Chongqing] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/hahadu/coole-php/index.php on line 7
-[23-Sep-2020 21:50:02 Asia/Chongqing] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/hahadu/coole-php/index.php on line 7
