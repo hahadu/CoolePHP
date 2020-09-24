@@ -5,38 +5,20 @@
  *  +----------------------------------------------------------------------
  *  | Copyright (c) 2020. [hahadu] All rights reserved.
  *  +----------------------------------------------------------------------
- *  | SiteUrl: https://github.com/hahadu
+ *  | SiteUrl: https://github.com/hahadu/coole-php
  *  +----------------------------------------------------------------------
  *  | Author: hahadu <582167246@qq.com>
  *  +----------------------------------------------------------------------
- *  | Date: 2020/9/24 下午12:12
+ *  | Date: 2020/9/24 下午12:26
  *  +----------------------------------------------------------------------
- *  | Description:   cooleAdmin
+ *  | Description:   coole-php 系统钩子类
  *  +----------------------------------------------------------------------
  */
 
 namespace Coole\CoolePHP;
 
-/****
- * CoolePHP控制器基类文件
- *
- * Class Controller
- * @package Coole\CoolePHP
- *
- */
-abstract class Controller{
-    public function __construct(){
 
+class Hook
+{
 
-    }
-    /**
-     * 魔术方法 有不存在的操作的时候执行
-     * @access public
-     * @param string $method 方法名
-     * @param array $args 参数
-     * @return mixed
-     */
-    public function __call($method, $args){
-        return "ERROE!";
-    }
 }
