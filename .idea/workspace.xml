@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc8fde0-56e7-4709-ae83-f62b3314532d" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/coole-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coole-php.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
@@ -55,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600872450769</updated>
       <workItem from="1600872453089" duration="1497000" />
-      <workItem from="1600916341747" duration="1751000" />
+      <workItem from="1600916341747" duration="1828000" />
     </task>
     <servers />
   </component>
