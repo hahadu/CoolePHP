@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc8fde0-56e7-4709-ae83-f62b3314532d" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coole-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coole-php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/coole-php/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/coole-php/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CoolePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoolePHP.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Library/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Library/Coole.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Coole.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/app/controller/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/app/controller/Controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/app/controller/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/app/controller/IndexController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/app/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/app/view/index.html" afterDir="false" />
@@ -44,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600872450769</updated>
       <workItem from="1600872453089" duration="1497000" />
-      <workItem from="1600916341747" duration="1527000" />
+      <workItem from="1600916341747" duration="1751000" />
     </task>
     <servers />
   </component>
