@@ -5,9 +5,7 @@
 
 新建入口文件index.php
 
-使用：引入'CoolePHP.php'文件;
-
-include 'CoolePHP.php' 或者 include 'vendor/autoload.php';
+include 'vendor/autoload.php';
 
 新建文件夹
 app\controller

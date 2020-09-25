@@ -25,10 +25,13 @@ const COOLE_SYSTEM_VERSION = 'V 0.1.3';
 defined('COOLE_PATH') or define('COOLE_PATH', __DIR__ . '/');
 defined('LIB_PATH') or define('LIB_PATH', 'Library/');
 defined('APP_PATH') or define('APP_PATH', 'app/');
+defined('COM_PATH') or define('COM_PATH', 'common/');
 defined('CONF_PATH') or define('CONF_PATH', APP_PATH.'conf/');
 
 
 // 类文件后缀
 const EXT = '.php';
 require LIB_PATH.'Coole'.EXT;
+require_once COM_PATH.'function'.EXT;
+
 Coole::router();
