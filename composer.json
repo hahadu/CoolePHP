@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "files": ["src/CoolePHP.php","src/common/function.php"],
+        "files": ["src/CoolePHP.php"],
         "psr-4": {
             "Coole\\CoolePHP\\": "src/Library"
         }
