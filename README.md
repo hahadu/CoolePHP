@@ -12,7 +12,8 @@ app\controller
 打开app\controller目录
 新建IndexController.php控制器文件
 
-<code><?php
+```
+<?php
 
 namespace controller;
 
@@ -31,8 +32,8 @@ class IndexController{
 	}
 
 }
+```
 
-</code>
 浏览器访问/index.php?m=index&a=demo
 <br/>
 m 控制器名<br/>

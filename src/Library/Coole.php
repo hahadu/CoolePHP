@@ -38,7 +38,7 @@ class Coole{
 		//处理路径
 		$namespace = rtrim(str_replace('\\/' , '/' , $namespace),'/').'/';
 		//拼接文件全路径
-		$filePath = $namespace.$realClass.'.php';
+		$filePath = $namespace.$realClass.EXT;
 		//引入文件
 		if(file_exists($filePath)){
 			include $filePath;
@@ -73,4 +73,4 @@ class Coole{
 	}
 }
 $coole = new Coole();
-$coole->addMaps('controller' , APP_PATH.'controller');
+$coole->addMaps(CONTROLLER , APP_PATH.CONTROLLER);
