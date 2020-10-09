@@ -2,3 +2,4 @@
 /app/
 .idea
 composer.lock
+error_log.txt
