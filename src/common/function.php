@@ -38,6 +38,28 @@ if(function_exists('file_format')){
     }
 }
 
+/****
+ * 以只读方式打开文件
+ * @param string $file_name  filename
+ * @param string $type string|字符串方式打开 array|数组方式打开
+ * @return array|false|string
+ */
+if(function_exists('open_files')){
+    function open_files($file_name='',$type = 'string'){
+        if(file_exists($file_name)){
+            switch ($type){
+                case 'array' :
+                    return file($file_name);
+                    break;
+                default :
+                    return file_get_contents($file_name);
+                    break;
+            }
+        }
+        return false;
+    }
+}
+
 
 /****
  * @param $var

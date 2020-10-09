@@ -1,0 +1,36 @@
+[09-Oct-2020 11:21:13 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:23:04 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:23:05 Asia/Chongqing] PHP Warning:  fopen(webdictionary.txt): failed to open stream: No such file or directory in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 6
+[09-Oct-2020 11:23:45 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:24:12 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:25:25 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:25:25 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 11:25:26 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:25:26 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 11:25:27 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:25:27 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 11:25:41 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:26:10 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:26:10 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 11:26:31 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:26:31 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 11:29:18 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:29:46 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:06 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:07 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:07 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:07 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:07 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:08 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:08 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:08 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:30:08 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:32:54 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:32:55 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:32:55 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:32:55 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:33:09 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 11:33:36 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 12:20:28 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
+[09-Oct-2020 12:20:28 Asia/Chongqing] PHP Notice:  Array to string conversion in /var/www/html/hahadu/coole-php/app/controller/IndexController.php on line 7
+[09-Oct-2020 12:20:52 Asia/Chongqing] PHP Warning:  defined() expects exactly 1 parameter, 2 given in /var/www/html/hahadu/coole-php/src/CoolePHP.php on line 30
